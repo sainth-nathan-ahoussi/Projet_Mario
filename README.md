@@ -5,6 +5,7 @@ Bienvenue sur le référentiel GitHub de Super Mario Enhanced, un projet passion
 nouvelles fonctionnalités pour enrichir l'expérience de jeu.
 
 - Nouvelles Fonctionnalités
+  
       1. Nouveaux Niveaux et Mondes
       Découvrez un ensemble de nouveaux niveaux soigneusement conçus pour défier même les joueurs les plus expérimentés.          
       Chaque monde offre des défis uniques et des surprises palpitantes qui raviveront votre passion pour l'aventure de Mario.
